@@ -1,8 +1,7 @@
 # Pedro Henrique Novicov de Andrade
 ## Quem sou eu? 
 Eu sou um recem graduado de Ciência de dados. Eu gosto de jogar jogos mais focados em estratégia e narrativa. 
-Eu gosto de aprender diferentes coisas sejam elas, habilidades relevantes a minha futura vida profissional como uma lingua de programação ou como criar um banco de dados na Azure, á coisas mais bobas como a história de EVE Online. Eu não gosto de ficar
-parado. Eu amo histórias e o processo de descobrir a verdade, ou imaginar uma narrativa, pela análise de dados me anima.
+Eu gosto de aprender coisas diferentes sejam elas relevantes a minha vida profissional ou não. Gosto de ser metódico e ter certeza que todo "t" estéja cruzado e cada "i" pingado.  
 
 ## Habilidades
 Para ser conciso eu não vou entrar em especificos em termos de bibliotécas dentro da lingua mas eu tenho um conhecimento sólido de tudo mencionado aqui.
