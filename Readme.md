@@ -1,6 +1,6 @@
 # Pedro Henrique Novicov de Andrade
 ## Quem sou eu? 
-Eu sou um aluno de Ciência da Computação no meu ultimo semestre na Universidade Presbiteriana Mackenzie tendo terminado todas as minhas matérias só faltando meu TCC e horas em estágio. Eu gosto de jogar jogos mais focados em estratégia e narrativa. 
+Eu sou um recem graduado de Ciência de dados. Eu gosto de jogar jogos mais focados em estratégia e narrativa. 
 Eu gosto de aprender diferentes coisas sejam elas, habilidades relevantes a minha futura vida profissional como uma lingua de programação ou como criar um banco de dados na Azure, á coisas mais bobas como a história de EVE Online. Eu não gosto de ficar
 parado. Eu amo histórias e o processo de descobrir a verdade, ou imaginar uma narrativa, pela análise de dados me anima.
 
@@ -23,6 +23,7 @@ Excel
 ```
 Ensino Médio brasileiro - Colégio Presbiteriano Mackenzie Tamboré
 Ensino Médio Americano - Programa High School(University of Missouri Columbia)
+Bacharelado de Ciência da Computação
 Data Science - Udemy
 Python AI Backend - DIO
 Data Analytics com Power Bi - DIO
